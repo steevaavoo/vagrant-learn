@@ -3,8 +3,10 @@
 Playing about with Virtual Box and Vagrant from scratch
 Build VirtualBox - complete below tasks
 
-1. Build Server 2012r2 Datacenter, 2gb, 2core
-1. VirtualBox Guest Additions
+~~1. Build Server 2012r2 Datacenter, 2gb, 2core~~
+
+~~1. VirtualBox Guest Additions~~
+
 1. All Windows Updates
 1. Windows Update Cleanup
 1. Disable Complex Passwords
